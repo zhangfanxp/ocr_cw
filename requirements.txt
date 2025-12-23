@@ -1,0 +1,15 @@
+# 基础 UI 框架 (建议 4.x 以上版本以支持 gr.Info 和 gr.Accordion)
+gradio>=4.0.0
+
+# 阿里 DashScope / OpenAI 兼容接口调用
+openai
+
+# 数据库连接
+mysql-connector-python
+
+# 数据处理与 Excel 导出
+pandas
+openpyxl
+
+# 异步后端支持 (Gradio 内部依赖)
+anyio
